@@ -1,0 +1,3 @@
+@ECHO OFF
+NET START "Tomcatlocalhost8080"
+@PAUSE
